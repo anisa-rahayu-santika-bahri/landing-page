@@ -1,0 +1,10 @@
+# GitHub Pages Configuration
+title: Coming Soon
+description: Something exciting is on the way!
+theme: jekyll-theme-minimal
+
+# Optional: Custom domain
+# url: "https://yourdomain.com"
+
+# Build settings
+markdown: kramdown
